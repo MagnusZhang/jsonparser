@@ -1,24 +1,14 @@
-# jsonparser
-
-## Project setup
-```
+# Simple JSON Parser
+## How to Compile
+```shell
+# Installing Dependencies
 npm install
+# Packing for Windows
+npm electron:window
+# Packing for Mac
+npm electron:mac
+# Debugging
+npm electron:serve 
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Preview
+![](preview.png)

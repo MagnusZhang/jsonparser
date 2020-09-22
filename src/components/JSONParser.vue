@@ -5,7 +5,7 @@
         @click="refresh"
         class="noselect"
         style="width:64px;height: 32px;font-size: 14px; text-align:center; line-height: 32px; background:#1E9FFF; color:white; border-radius:5px;cursor:pointer;focusable:none;"
-      >解析</div>
+      >Format</div>
     </div>
     <div
       style="display:flex; flex-direction:row; flex-wrap:nowrap;margin:0;padding:0;background:white;margin-top:20px;"
